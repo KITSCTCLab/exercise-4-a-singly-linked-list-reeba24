@@ -12,7 +12,7 @@ class Node:
         """
         Initializes the Node with the given attributes
         """
-        self.data = datas
+        self.data = data
         self.next = next
 
 
